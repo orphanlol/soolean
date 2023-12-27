@@ -5,4 +5,6 @@
 	       <img src="https://img.shields.io/discord/addthissoon?label=discord&logo=discord">
         </a>
 </p>
-e
+<p align="center">
+<img width="212" height="212" src="https://github.com/Orphanlol/Veue/blob/main/img/weird.jpg">
+</p>
