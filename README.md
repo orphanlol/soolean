@@ -11,4 +11,4 @@
 <p align="center">
 <img width="212" height="212" src="https://github.com/Orphanlol/Veue/blob/main/img/weird.jpg">
 </p>
-hi curiculum associates! this is satire.
+yo adding widgetbot and making a goofy ahh ugly site for this shet
