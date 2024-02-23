@@ -12,3 +12,4 @@
 <img width="212" height="212" src="https://github.com/Orphanlol/iReady-fr/blob/main/img/weird.jpg">
 </p>
 <p align="center">:/</p>
+<p align="center">approved by waldron</</p>
