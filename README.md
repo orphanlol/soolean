@@ -2,7 +2,7 @@
 <h3 align="center">real i-Ready utility !!!?!</h3>
 <h3 align="center">star this</h3>
 <h3 align="center">disclaimer: satire</h3>
-<p align="center">we've rebranded to nosama</p>
+<p align="center">view raw bookmarklet and select all, then drag</p>
 <p align="center">
         <a href="https://discord.gg/BWNZpSBJJ8">
 	       <img src="https://img.shields.io/discord/1192248054691151882?label=discord&logo=discord">
