@@ -1,5 +1,5 @@
 <h1 align="center">nosama</h1>
-<h3 align="center">real i-Ready utility !!!?!</h3>
+<h3 align="center">real i-Ready utility (real)</h3>
 <h3 align="center">star this</h3>
 <h3 align="center">disclaimer: satire</h3>
 <p align="center">view raw bookmarklet and select all, then drag</p>
