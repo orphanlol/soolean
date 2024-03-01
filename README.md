@@ -13,3 +13,4 @@
 </p>
 <p align="center">:/</p>
 <p align="center">approved by waldron</</p>
+https://orphanlol.github.io/hot-curry/
