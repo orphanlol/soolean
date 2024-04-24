@@ -16,7 +16,7 @@ With this hack you can completely remove the stress and torture that comes with 
 
 <h2 align="center">How to setup:</h2>
 Go <a href="https://github.com/SooleanPlaceholder/regexp/blob/main/src/main.js">here</a> and copy all the code.<br><br>
-Then login to i-Ready and open the console (Ctrl + Shift + J). Paste all the code in there and run it.
+Then login to i-Ready and open the console (Ctrl + Shift + I). Paste all the code in there and run it.
 
 <h2 align="center">FAQ</h2>
 <details>
