@@ -1,5 +1,5 @@
 <h1 align="center">Soolean</h1>
-<h3 align="center">a i-Ready hack?</h3>
+<h3 align="center">a util</h3>
 <p align="center">By <a href="https://spy.pet">an idiot.</a>
 <p align="center">
 	<a href="https://discord.gg/BWNZpSBJJ8">
@@ -11,12 +11,11 @@
 </p>
 
 <p align="center">
-Welcome to Soolean, the best i-Ready hack!<br><br>
-With this hack you can completely remove the stress and torture that comes with i-Ready and get rid of that boring bs.</p>
-
+soolean is not an iready hack<br>
+	
 <h2 align="center">How to setup:</h2>
 Go <a href="https://github.com/orphanlol/soolean/blob/main/src/main.js">here</a> and copy all the code.<br><br>
-Then login to i-Ready and open the console (Ctrl + Shift + I). Paste all the code in there and run it.
+[gone]
 
 <h2 align="center">FAQ</h2>
 <details>
@@ -31,5 +30,5 @@ nullify readme any%
 
 <p align="center">
 Credits: N/A<br><br>
-Skipper Credits: there isnt even a fucking skipper bro<br><br>
+yap here is gone<br><br>
 Soolean is under the GNU General Public License v3.0. Learn more <a href="https://github.com/orphanlol/soolean/blob/main/LICENSE">here</a>.</p>
