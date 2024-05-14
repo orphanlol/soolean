@@ -1,5 +1,5 @@
 <h1 align="center">Soolean</h1>
-<h3 align="center">a util</h3>
+<h3 align="center">hey ca, this isn't a iready hack</h3>
 <p align="center">By <a href="https://spy.pet">an idiot.</a>
 <p align="center">
 	<a href="https://discord.gg/BWNZpSBJJ8">
@@ -12,16 +12,12 @@
 
 <p align="center">
 soolean is not an iready hack<br>
-	
-<h2 align="center">How to setup:</h2>
-Go <a href="https://github.com/orphanlol/soolean/blob/main/src/main.js">here</a> and copy all the code.<br><br>
-[gone]
 
 <h2 align="center">FAQ</h2>
 <details>
   	<summary><b>hi?</b></summary>
 
-nullify readme any%
+i do stuff
 </details>
 
 
