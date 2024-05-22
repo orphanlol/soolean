@@ -1,4 +1,4 @@
-<h1 align="center">VanadiumGUI</h1>
+<h1 align="center">Alleoy</h1>
 <h3 align="center">star if you happen to find this interesting</h3>
 <p align="center">By <a href="https://github.com/orphanlol">orphanlol</a>
 <p align="center">
@@ -11,13 +11,19 @@
 </p>
 
 <p align="center">
-VanadiumGUI is what it sounds like, a simple GUI called Vanadium<br>
-
+Alleoy is what the menu that holds the GUI is called. <br>
+purpose? to be dumb
 <h2 align="center">FAQ</h2>
 <details>
   	<summary><b>Release?</b></summary>
 
 when I feel like it
+</details>
+
+<details>
+  	<summary><b>is idiot?</b></summary>
+
+no u
 </details>
 
 
