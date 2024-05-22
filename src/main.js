@@ -1,5 +1,0 @@
-/*
-iready is hot
-*/
-
-// soon
