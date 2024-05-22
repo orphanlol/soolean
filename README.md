@@ -1,6 +1,6 @@
-<h1 align="center">Soolean</h1>
-<h3 align="center">hey ca, this isn't a iready hack</h3>
-<p align="center">By <a href="https://spy.pet">an idiot.</a>
+<h1 align="center">VanadiumGUI</h1>
+<h3 align="center">star if you happen to find this interesting</h3>
+<p align="center">By <a href="https://github.com/orphanlol">orphanlol</a>
 <p align="center">
 	<a href="https://discord.gg/BWNZpSBJJ8">
 	<img src="https://img.shields.io/discord/1192248054691151882?label=discord&logo=discord">
@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-soolean is not an iready hack<br>
+VanadiumGUI is what it sounds like, a simple GUI called Vanadium<br>
 
 <h2 align="center">FAQ</h2>
 <details>
-  	<summary><b>hi?</b></summary>
+  	<summary><b>Release?</b></summary>
 
-i do stuff
+when I feel like it
 </details>
 
 
@@ -25,6 +25,6 @@ i do stuff
 <h2 align="center">Misc</h2>
 
 <p align="center">
-Credits: N/A<br><br>
-yap here is gone<br><br>
-Soolean is under the GNU General Public License v3.0. Learn more <a href="https://github.com/orphanlol/soolean/blob/main/LICENSE">here</a>.</p>
+Credits: wang and galaxqy for inspiration, i-RO for the GUI<br><br>
+jmenu isn't real<br><br>
+Vanadium is under the GNU General Public License v3.0. Learn more <a href="https://github.com/orphanlol/soolean/blob/main/LICENSE">here</a>.</p>
